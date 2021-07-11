@@ -1,0 +1,50 @@
+#main {
+    font-family: Monospace;
+    background-color: #A6A6A6;
+  }
+         
+  #title, .text {
+    text-align: center;
+  }
+         
+   #img-div {
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+  }
+         
+  #image {
+    flex-content: center;
+    width: auto;
+    padding: 0px;
+  }
+         
+  #img-caption {
+    font-size: 12px;
+    margin: 0px;
+    padding: 20px;
+  }
+  
+  #tribute-info {
+    margin-top: 35px;
+    text-align: center;
+  }
+  
+  .tribute-points {
+    text-align: justify;
+    margin-top: 40px;
+    margin-left: 350px;
+    margin-right: 350px;
+  }
+  .appointment {
+    font-style: italic;
+    text-align: justify;
+    margin-left: 375px;
+    margin-right: 350px;
+  }
+  
+  #moreInformation {
+    padding: 0px;
+    margin-left: 250px;
+    margin-bottom: 40px;
+  }
